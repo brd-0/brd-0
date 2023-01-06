@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brd-0. A former web master venturing into the world of programming & data science.
+- 👋 Hi, I’m @brd-0. A web master venturing into the world of programming & data science.
 - 🤔 My primary interests include machine learning/AI, game design & development, cyber security, and computational neuroscience.
 - 📈 I'm currently learning python & C# - and I'm a novice at best. I have some fluency using PHP & MySQL.
 - 🎨 I've got experience working with both Unity & UE4.
