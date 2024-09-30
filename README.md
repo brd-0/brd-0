@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @brd-0. A web master venturing into the world of programming & data science.
-- 🤔 My primary interests include computational neuroscience, machine learning/AI, game design & development, & cyber security/networking.
-- 📈 I'm currently learning python & C#. I have some fluency using HTML & CSS, PHP, & MySQL.
-- 🎨 I've got experience working with both Unity & UE4
+- 👋 Hi, I’m @brd-0.
+- 🤔 My primary interests include computational neuroscience, machine learning/AI, & game design + development.
+- 📈 I'm currently learning python & java. I'm also familiar with HTML & CSS, PHP, & MySQL.
+- 🎨 I've got experience working in Unity 
 - 📫 Contact: brd-0@outlook.com
 
 <!---
