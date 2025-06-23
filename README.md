@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brd-0.
 - 🤔 My primary interests include computational neuroscience, machine learning/AI, & game design + development.
-- 📈 I'm currently learning python & java. I'm also familiar with HTML & CSS, PHP, & MySQL.
+- 🤖 I'm currently developing a hybrid AI companion agent for local robotics.
 - 🎨 I've got experience working in Unity 
 - 📫 Contact: brd-0@outlook.com
 
