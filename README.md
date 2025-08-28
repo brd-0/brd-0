@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brd-0. Founder of [Shard:One](https://shard-one.site).
+- 👋 Hi, I’m @brd-0. This is my website! [Shard:One](https://shard-one.site).
 - 🤔 My primary interests include computational neuroscience, philosophy, machine learning/AI, robotics, & game design + development.
 - 🤖 I'm currently developing a hybrid AI companion agent for robotics, BCI, and various other open source softwares. Looking for collaborators of all skill levels.
 - 🎨 Proficient in Java, Python, Unity, HTML/CSS, PHP, and MySQL - with experience spanning object-oriented programming, web development, game development, and database management. 
